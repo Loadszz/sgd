@@ -2010,7 +2010,7 @@ body.touch .arrow {
 /*----------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 .slider {
-  background-image: url(/..img/teacherBG.jpg);
+  background-image: url(../img/teacherBG.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -2915,7 +2915,7 @@ body.touch .arrow {
 .name{background-image:url(../img/banner.webp)}
 .slick-arrow.slick-next{background:url(../img/next.webp)}
 .science-teacher{background-image:url(../img/science/backgroud.webp)}
-.slider{background-image:url(/..img/teacherBG.webp)}
+.slider{background-image:url(../img/teacherBG.webp)}
 }
 
  @media (max-width: 1200px){
